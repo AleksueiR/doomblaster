@@ -1,0 +1,17 @@
+{
+  "name": "im_1",
+  "version": "0.0.0",
+  "description": "im_1",
+  "main": "app.js",
+  "author": {
+    "name": "AleksueiR",
+    "email": ""
+  },
+  "dependencies": {
+    "cron": "^1.0.9",
+    "download": "^4.1.2",
+    "moment": "^2.10.3",
+    "promise": "^7.0.1",
+    "sprintf": "^0.1.5"
+  }
+}
