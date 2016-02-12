@@ -3,6 +3,7 @@ node_js:
   - '5.4'
 script:
   - git status
+  - gulp serve
 notifications:
   webhooks:
     urls:
