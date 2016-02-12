@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - '5.4'
+script:
+  - git status
+notifications:
+  webhooks:
+    urls:
+      - 'https://webhooks.gitter.im/e/d04208a69224404761ed'
+    on_success: always
+    on_failure: always
+    on_start: false
